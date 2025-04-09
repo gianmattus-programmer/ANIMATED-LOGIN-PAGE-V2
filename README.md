@@ -41,4 +41,4 @@ Si deseas contribuir a este proyecto, siéntete libre de hacerlo. Puedes mejorar
 
 ## Licencia 📜
 
-Este proyecto se lanza bajo la Licencia MIT.
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para más detalles.
